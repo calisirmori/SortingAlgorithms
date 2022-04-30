@@ -1,7 +1,7 @@
 # SortingAlgorithms
 
-Python application visualising sorting algorithms using tkinter library.
-Choice between 2 and 80 values to sort and real-time sorting speed control with the dial.
+Python application visualising sorting algorithms using tkinter library.  
+Choice between 2 and 80 values to sort and real-time sorting speed control with the dial.  
 
 Initial launch:  
 Generates random values for given column numbers.  
